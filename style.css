@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
+hr{
+    background-color: blueviolet;
+}
+p{
+    color:khaki;
+}
+h1{
+    color:deeppink;
+    background-color: goldenrod;
+}
+h1:hover{
+    color:gold;
+    background-color: deepskyblue;
+
+}
